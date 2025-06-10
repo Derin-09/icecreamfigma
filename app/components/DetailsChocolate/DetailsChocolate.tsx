@@ -10,7 +10,7 @@ const DetailsChocolate = () => {
     <main className='select-none '>
       <p className='text-[#712E1A] text-3xl md:text-4xl xl:text-6xl font-[700] mb-10 xl:mb-7 md:mb-4 mt-25 md:mt-15 xl:mt-20'>Chocolate Flavour<br />Ice Cream</p>
       <p className='md:text-sm xl:text-md w-[70%] mb-5 md:mb-5 xl:mb-8 z-20'>
-        I'm doing this as a way to practice my design skills, explore different styles and have fun. I'm fully aware this challenge doesn't pose any real problem to solve.</p>
+        I&apos;m doing this as a way to practice my design skills, explore different styles and have fun. I&apos;m fully aware this challenge doesn&apos;t pose any real problem to solve.</p>
         <div className='flex gap-3 mb-10 md:mb-5 xl:mb-10'>
           <button className='bg-[#712E1A] rounded-full p-2 px-3 md:text-sm text-white'>Order Now</button>
           <button className='border-2 border-[#712E1A] rounded-full p-2 px-3 md:text-sm  text-[#712E1A]'>See Menu</button>
